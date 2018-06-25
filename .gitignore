@@ -1,0 +1,7 @@
+microservice-demo-catalog/target
+microservice-demo-config-server/target
+microservice-demo-customer/target
+microservice-demo-eureka-server/target
+microservice-demo-order/target
+microservice-demo-turbine-server/target
+microservice-demo-zuul-server/target
